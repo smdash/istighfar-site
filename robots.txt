@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://smdash.github.io/istighfar-site/sitemap.xml
